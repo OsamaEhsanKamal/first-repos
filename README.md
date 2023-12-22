@@ -1,3 +1,4 @@
 # first-repos
-This is my first Git Repository
-Author Osama Ehsan Kamal
+This is my first Git Repository.
+<br>
+Author "Osama Ehsan Kamal"
